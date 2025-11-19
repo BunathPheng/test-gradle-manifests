@@ -6,7 +6,7 @@ This repository contains auto-generated Helm manifests.
 
 **Build Number:** 1
 
-**Generated at:** 2025-11-19T08:28:17.140891700Z
+**Generated at:** 2025-11-19T08:30:17.579486100Z
 
 **Source:** deploy/helm
 
